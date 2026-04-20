@@ -272,6 +272,10 @@ plt.show()
 1        Random Forest  0.983152   0.998587  0.967741  0.982922
 2   Threshold Tuned RF  0.988033   0.988048  0.988065  0.988056
 
+
+
+
+
 <img width="718" height="463" alt="chart14" src="https://github.com/user-attachments/assets/e93efe9f-b6ee-44d0-9aaa-a44123cbdc17" />
 
 Logistic Regression provided a solid baseline with good overall performance, but its recall was slightly lower, meaning it missed some fraud cases.
